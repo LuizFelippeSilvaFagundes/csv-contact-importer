@@ -154,13 +154,6 @@ php artisan test
 - **Validation**: Real-time validation with detailed error messages
 - **Responsive**: Mobile-friendly interface design
 
-## 🤝 Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
